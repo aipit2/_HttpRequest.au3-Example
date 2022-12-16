@@ -6,7 +6,7 @@ $CODE_JS &= 'function _0xe39c2(h,u,n,t,e,r){r="";for(var i=0,len=h.length;i<len;
 
 
 
-Global Const $URL_VIDEO = "https://www.tiktok.com/@sharemyplaylist/video/7064580201044249857?is_copy_url=1&is_from_webapp=v1"\
+Global Const $URL_VIDEO = "https://www.tiktok.com/@sharemyplaylist/video/7064580201044249857?is_copy_url=1&is_from_webapp=v1"
 Global Const $SAVE_DIR = @ScriptDir & "\" & "result.mp4"
 Local $URL_RESULT = SnapTik_Download($URL_VIDEO,$SAVE_DIR)
 
