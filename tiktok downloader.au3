@@ -45,7 +45,7 @@ Func SnapTik_Download($tiktokUrl,$dirSave)
 		ConsoleWrite("Khong giai duoc m oi #1" & @CRLF)
 		Return SetError(1)
 	EndIf
-	$codeJs = $CODE_JS &= '_0xe39c2(' & $codeRun[0] & ')'
+	Local $codeJs = $CODE_JS & '_0xe39c2(' & $codeRun[0] & ')'
 	Local $jsRun = _JS_Execute_Ex("https://snaptik.app/vn","",$codeJs)
 	Local $arrayLink = StringRegExp($jsRun,'down-right\\"><a href=\\"(.*?)\\"',3)
 	If @error Then
