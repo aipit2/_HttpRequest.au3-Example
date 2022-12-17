@@ -1,2 +1,1 @@
-# tiktok_download
-Download tiktok video using snaptik.app API
+Đây là các ví dụ về http mà các bạn có thể tham khảo
