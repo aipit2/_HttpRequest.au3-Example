@@ -9,7 +9,7 @@
 Opt("GUIOnEventMode", 1) ; Change to OnEvent mode
 
 #include-once
-#include <File.au3> 				; Đọc file để tìm port và pass
+#include <File.au3> 			; Đọc file để tìm port và pass
 #include <ButtonConstants.au3> 		; Tạo GUI
 #include <ComboConstants.au3> 		; Tạo GUI
 #include <GUIConstantsEx.au3> 		; Tạo GUI
