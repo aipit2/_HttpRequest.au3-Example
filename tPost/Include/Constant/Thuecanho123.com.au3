@@ -1,0 +1,15 @@
+Global Const $THUECANHO123_URL = "Thuecanho123.com"
+Global Const $THUECANHO123_ARRAY_CITY_ID = $BDS123_ARRAY_CITY_ID
+Global Const $THUECANHO123_URL_GET_DISTRICT = "https://thuecanho123.com/api/get/districts"
+Global Const $THUECANHO123_URL_GET_WARD 	= "https://thuecanho123.com/api/get/wards"
+Global Const $THUECANHO123_URL_GET_STREET 	= "https://thuecanho123.com/api/get/streets"
+Global Const $THUECANHO123_URL_GET_PROJECT	= "https://thuecanho123.com/api/get/projects"
+Global Const $THUECANHO123_REGEX_GET_NAME 	= 'name":"(.*?)"'
+Global Const $THUECANHO123_REGEX_GET_ID 	= 'id":(\d+)'
+Global Const $THUECANHO123_URL_GET_TOKEN_LOGIN = "https://thuecanho123.com/dang-nhap.html"
+Global Const $THUECANHO123_URL_LOGIN = "https://thuecanho123.com/api/user/login"
+Global Const $REG_ACCOUNT_THUECANHO123 = $REG_ACCOUNT & $THUECANHO123_URL
+Global Const $THUECANHO123_URL_UPLOAD = "https://static123.com/api/upload"
+Global Const $THUECANHO123_URL_POSTING = "https://thuecanho123.com/api/post/create"
+Global Const $THUECANHO123_ARRAY_VIP = [37,31,32,33,34,35,36,31,32,33,34,35,36,31,32,33,34,35,36]
+Global Const $THUECANHO123_ARRAY_VIP_2 = ["day","day","day","day","day","day","day","week","week","week","week","week","week","month","month","month","month","month","month"]

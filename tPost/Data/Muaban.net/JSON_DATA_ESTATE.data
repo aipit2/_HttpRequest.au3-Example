@@ -1,0 +1,254 @@
+[
+  [
+    {
+      "name": "Nhà mặt tiền",
+      "flow_id": 2,
+      "subcategory_id": 169,
+      "property_type": 43,
+      "property_subtype": 2521,
+      "legal_id": 403
+    },
+    {
+      "name": "Nhà trong hẻm",
+      "flow_id": 2,
+      "subcategory_id": 169,
+      "property_type": 43,
+      "property_subtype": 2522,
+      "legal_id": 403
+    },
+    {
+      "name": "Biệt thự, nhà liền kề",
+      "flow_id": 2,
+      "subcategory_id": 169,
+      "property_type": 43,
+      "property_subtype": 2537,
+      "legal_id": 403
+    },
+    {
+      "name": "Căn hộ chung cư",
+      "flow_id": 3,
+      "subcategory_id": 169,
+      "property_type": 2536,
+      "property_subtype": 2801,
+      "legal_id": 403
+    },
+    {
+      "name": "Phòng trọ, nhà trọ",
+      "flow_id": 3,
+      "subcategory_id": 169,
+      "property_type": 2536,
+      "property_subtype": 2804,
+      "legal_id": 403
+    },
+    {
+      "name": "Văn phòng",
+      "flow_id": 3,
+      "subcategory_id": 169,
+      "property_type": 2536,
+      "property_subtype": 2805,
+      "legal_id": 403
+    },
+    {
+      "name": "Kho, xưởng",
+      "flow_id": 4,
+      "subcategory_id": 169,
+      "property_type": 42,
+      "property_subtype": 2520,
+      "legal_id": null
+    },
+    {
+      "name": "Nhà hàng, khách sạn",
+      "flow_id": 147,
+      "subcategory_id": 44,
+      "property_type": 2523,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Shop, quán",
+      "flow_id": 5,
+      "subcategory_id": 44,
+      "property_type": 2586,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Kiot",
+      "flow_id": 138,
+      "subcategory_id": 44,
+      "property_type": 2526,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Trang trại",
+      "flow_id": 4,
+      "subcategory_id": 169,
+      "property_type": 42,
+      "property_subtype": 2520,
+      "legal_id": 403
+    },
+    {
+      "name": "Mặt bằng",
+      "flow_id": 150,
+      "subcategory_id": 44,
+      "property_type": 2527,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Đất thổ cư, đất ở",
+      "flow_id": 4,
+      "subcategory_id": 169,
+      "property_type": 42,
+      "property_subtype": 2519,
+      "legal_id": 403
+    },
+    {
+      "name": "Đất nền, liền kề, đất dự án",
+      "flow_id": 4,
+      "subcategory_id": 169,
+      "property_type": 42,
+      "property_subtype": 2508,
+      "legal_id": null
+    },
+    {
+      "name": "Đất nông, lâm nghiệp",
+      "flow_id": 4,
+      "subcategory_id": 169,
+      "property_type": 42,
+      "property_subtype": 2520,
+      "legal_id": 403
+    },
+    {
+      "name": "Các loại khác",
+      "flow_id": 150,
+      "subcategory_id": 44,
+      "property_type": 2527,
+      "property_subtype": null,
+      "legal_id": null
+    }
+  ],
+  [
+    {
+      "name": "Nhà mặt tiền",
+      "flow_id": 6,
+      "subcategory_id": 46,
+      "property_type": 2811,
+      "property_subtype": 2528,
+      "legal_id": null
+    },
+    {
+      "name": "Nhà trong hẻm",
+      "flow_id": 6,
+      "subcategory_id": 46,
+      "property_type": 2811,
+      "property_subtype": 2565,
+      "legal_id": null
+    },
+    {
+      "name": "Biệt thự, nhà liền kề",
+      "flow_id": 6,
+      "subcategory_id": 46,
+      "property_type": 2811,
+      "property_subtype": 2562,
+      "legal_id": null
+    },
+    {
+      "name": "Căn hộ chung cư",
+      "flow_id": 7,
+      "subcategory_id": 46,
+      "property_type": 2812,
+      "property_subtype": 2529,
+      "legal_id": null
+    },
+    {
+      "name": "Phòng trọ, nhà trọ",
+      "flow_id": 8,
+      "subcategory_id": 46,
+      "property_type": 1614,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Văn phòng",
+      "flow_id": 145,
+      "subcategory_id": 46,
+      "property_type": 2814,
+      "property_subtype": 2566,
+      "legal_id": null
+    },
+    {
+      "name": "Kho, xưởng",
+      "flow_id": 146,
+      "subcategory_id": 46,
+      "property_type": 2815,
+      "property_subtype": 2507,
+      "legal_id": null
+    },
+    {
+      "name": "Nhà hàng, khách sạn",
+      "flow_id": 147,
+      "subcategory_id": 44,
+      "property_type": 2523,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Shop, quán",
+      "flow_id": 5,
+      "subcategory_id": 44,
+      "property_type": 2586,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Kiot",
+      "flow_id": 138,
+      "subcategory_id": 44,
+      "property_type": 2526,
+      "property_subtype": null,
+      "legal_id": null
+    },
+    {
+      "name": "Trang trại",
+      "flow_id": 146,
+      "subcategory_id": 46,
+      "property_type": 2815,
+      "property_subtype": 2829,
+      "legal_id": null
+    },
+    {
+      "name": "Mặt bằng",
+      "flow_id": 145,
+      "subcategory_id": 46,
+      "property_type": 2814,
+      "property_subtype": 2530,
+      "legal_id": null
+    },
+    {
+      "name": "Đất thổ cư, đất ở",
+      "flow_id": 146,
+      "subcategory_id": 46,
+      "property_type": 2815,
+      "property_subtype": 2829,
+      "legal_id": null
+    },
+    {
+      "name": "Đất nền, liền kề, đất dự án",
+      "flow_id": 146,
+      "subcategory_id": 46,
+      "property_type": 2815,
+      "property_subtype": 2829,
+      "legal_id": null
+    },
+    {
+      "name": "Đất nông, lâm nghiệp",
+      "flow_id": 146,
+      "subcategory_id": 46,
+      "property_type": 2815,
+      "property_subtype": 2829,
+      "legal_id": null
+    }
+  ]
+]

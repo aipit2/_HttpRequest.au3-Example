@@ -1,0 +1,13 @@
+:authority: homedy.com
+:method: POST
+:path: /User/SSO_LoginAjax
+:scheme: https
+origin: https://homedy.com
+referer: https://homedy.com/Account/Login
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Microsoft Edge";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+x-requested-with: XMLHttpRequest

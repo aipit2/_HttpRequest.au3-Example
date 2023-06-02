@@ -1,0 +1,492 @@
+{
+  "ProductId": null,
+  "ProjectId": 608,
+  "CategoryId": 57,
+  "SubCategoryId": null,
+  "TypeId": 2,
+  "CityId": 2,
+  "DistrictId": 54,
+  "WardId": 118,
+  "StreetId": 4163,
+  "Address": "Số 28 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Thành phố Hồ Chí Minh",
+  "Name": "Cho thuê gấp căn hộ chính chủ còn mói dtsd 75m2, cc The Sun Avenue Quận 2, giá 15 triệu/tháng",
+  "Description": "<p>2 phòng ngủ THE SUN AVENUE - 75m2 - Full Nội Thất - 15 Triệu/Tháng</p><p>---</p><p>️Diện tích: 75m2</p><p>️Nội Thất: Đầy Đủ, ĐẸP</p><p>️Phí quản lý: Free, hồ bơi, GYM, BBQ</p><p>️Địa chỉ: Chung cư The Sun Avenue - 28 Mai Chí Thọ, P. An Phú, Q.2</p><p>️Liên hệ: (zalo, viber, sms) -</p><p>***</p><p>️Sun Avenue có 8 tháp, 8 hầm xe thông nhau với mỗi tháp có 2 hầm B1 và B2, luôn có chỗ đậu xe hơi.</p><p>️Tiện ích nội khu (miễn phí): Hồ bơi tràn lầu 5 ngắm pháo bông và dòng người, GYM, BBQ..; ngoại khu đầy đủ siêu thị, cà phê, nhà hàng, trường học ở tầng trệt mỗi tháp, phục vụ nhu cầu ăn uống và mua sắm của cư dân 24/7</p><p>️Gửi xe máy 66k/ 1xe, 132k/ xe thứ 2,3,4...; xe hơi 1.35tr/ 1xe, 1.65tr/ xe thứ 2,3,4...; điện, nước giá nhà nước.</p><p>Liên hệ ngay:</p><p>CĂN HỘ CHO THUÊ 24H</p><p>️Hotline 24/7:</p><p>Chuyên cho thuê Căn Hộ Chung Cư - Văn Phòng - Officetel The Sun Avenue Quận 2</p></oembed>",
+  "MinPrice": "15000000",
+  "MaxPrice": null,
+  "IsNegotiate": false,
+  "Acreage": "75",
+  "AcreageMax": null,
+  "LegalStatusId": null,
+  "MainDirectionId": null,
+  "ProductPropertiesBasic": [
+    {
+      "Id": 120,
+      "Alias": "ProductFloorNumber",
+      "Name": "Tầng căn hộ",
+      "DisplayOrder": 11,
+      "Value": null,
+      "ImageUrl": null,
+      "OptionData": null,
+      "HasBoolValue": null,
+      "HasMediaValue": null,
+      "HasNumberValue": null,
+      "HasTextValue": null,
+      "HasOptionValue": null,
+      "HasDateValue": null,
+      "ValueType": 3,
+      "GetValueType": 3,
+      "GetInputType": 1
+    },
+    {
+      "Id": 112,
+      "Alias": "BathRoom",
+      "Name": "Số phòng tắm",
+      "DisplayOrder": 12,
+      "Value": "2",
+      "ImageUrl": null,
+      "OptionData": null,
+      "HasBoolValue": null,
+      "HasMediaValue": null,
+      "HasNumberValue": null,
+      "HasTextValue": null,
+      "HasOptionValue": null,
+      "HasDateValue": null,
+      "ValueType": 3,
+      "GetValueType": 3,
+      "GetInputType": 3
+    },
+    {
+      "Id": 111,
+      "Alias": "BalconyDirection",
+      "Name": "Hướng ban công",
+      "DisplayOrder": 21,
+      "Value": null,
+      "ImageUrl": null,
+      "OptionData": [
+        {
+          "Name": "Đông",
+          "Id": 1
+        },
+        {
+          "Name": "Tây",
+          "Id": 2
+        },
+        {
+          "Name": "Nam",
+          "Id": 3
+        },
+        {
+          "Name": "Bắc",
+          "Id": 4
+        },
+        {
+          "Name": "Đông-Bắc",
+          "Id": 5
+        },
+        {
+          "Name": "Tây-Bắc",
+          "Id": 6
+        },
+        {
+          "Name": "Đông-Nam",
+          "Id": 7
+        },
+        {
+          "Name": "Tây-Nam",
+          "Id": 8
+        }
+      ],
+      "HasBoolValue": null,
+      "HasMediaValue": null,
+      "HasNumberValue": null,
+      "HasTextValue": null,
+      "HasOptionValue": null,
+      "HasDateValue": null,
+      "ValueType": 5,
+      "GetValueType": 5,
+      "GetInputType": 5
+    },
+    {
+      "Id": 113,
+      "Alias": "BedRoom",
+      "Name": "Số phòng ngủ",
+      "DisplayOrder": 22,
+      "Value": "2",
+      "ImageUrl": null,
+      "OptionData": null,
+      "HasBoolValue": null,
+      "HasMediaValue": null,
+      "HasNumberValue": null,
+      "HasTextValue": null,
+      "HasOptionValue": null,
+      "HasDateValue": null,
+      "ValueType": 3,
+      "GetValueType": 3,
+      "GetInputType": 3
+    },
+    {
+      "Id": 254,
+      "Alias": "CornerApartment",
+      "Name": "Căn góc",
+      "DisplayOrder": 31,
+      "Value": null,
+      "ImageUrl": null,
+      "OptionData": null,
+      "HasBoolValue": null,
+      "HasMediaValue": null,
+      "HasNumberValue": null,
+      "HasTextValue": null,
+      "HasOptionValue": null,
+      "HasDateValue": null,
+      "ValueType": 1,
+      "GetValueType": 1,
+      "GetInputType": 6
+    },
+    {
+      "Id": 0,
+      "Alias": "HasFurniture",
+      "Name": "Nội thất",
+      "DisplayOrder": 32,
+      "Value": null,
+      "ImageUrl": null,
+      "OptionData": null,
+      "HasBoolValue": null,
+      "HasMediaValue": null,
+      "HasNumberValue": null,
+      "HasTextValue": null,
+      "HasOptionValue": null,
+      "HasDateValue": null,
+      "ValueType": 4,
+      "GetValueType": 4,
+      "GetInputType": 4
+    }
+  ],
+  "SavedMediaModels": [],
+  "ProductPropertiesAdvance": {
+    "ProductConvenient": {
+      "Name": "Nội thất, tiện nghi",
+      "Index": 3,
+      "ListProductAdvs": [
+        {
+          "Name": "Phòng khách",
+          "Index": 1,
+          "GroupId": 29,
+          "Value": null,
+          "ListProductAdv": [
+            {
+              "Id": 176,
+              "Alias": "TVShelf",
+              "Name": "Kệ TV",
+              "DisplayOrder": 13,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/TVShelf.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 178,
+              "Alias": "DecorativeCabinet",
+              "Name": "Tủ trang trí",
+              "DisplayOrder": 15,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/DecorativeCabinet.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 311,
+              "Alias": "LivingRoomFurniture",
+              "Name": "Bàn ghế P.khách",
+              "DisplayOrder": 291,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/LivingRoomFurniture.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            }
+          ]
+        },
+        {
+          "Name": "Phòng ngủ",
+          "Index": 2,
+          "GroupId": 30,
+          "Value": null,
+          "ListProductAdv": [
+            {
+              "Id": 179,
+              "Alias": "Bed",
+              "Name": "Giường ngủ",
+              "DisplayOrder": 17,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/Bed.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 182,
+              "Alias": "MakeupTable",
+              "Name": "Bàn phấn",
+              "DisplayOrder": 25,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/MakeupTable.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 183,
+              "Alias": "Wardrobe",
+              "Name": "Tủ quần áo",
+              "DisplayOrder": 27,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/Wardrobe.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            }
+          ]
+        },
+        {
+          "Name": "Phòng bếp",
+          "Index": 3,
+          "GroupId": 28,
+          "Value": null,
+          "ListProductAdv": [
+            {
+              "Id": 169,
+              "Alias": "KitchenCabinets",
+              "Name": "Tủ bếp",
+              "DisplayOrder": 1,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/KitchenCabinets.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 170,
+              "Alias": "DiningTable",
+              "Name": "Bàn ăn",
+              "DisplayOrder": 3,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/DiningTable.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 152,
+              "Alias": "Hood",
+              "Name": "Máy hút mùi",
+              "DisplayOrder": 17,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/Hood.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            }
+          ]
+        },
+        {
+          "Name": "Phòng tắm",
+          "Index": 4,
+          "GroupId": 27,
+          "Value": null,
+          "ListProductAdv": [
+            {
+              "Id": 147,
+              "Alias": "StorageWaterHeater",
+              "Name": "Bình nóng lạnh",
+              "DisplayOrder": 7,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/StorageWaterHeater.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 225,
+              "Alias": "Bathtub",
+              "Name": "Bồn tắm",
+              "DisplayOrder": 31,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/Bathtub.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 226,
+              "Alias": "Shower",
+              "Name": "Vòi hoa sen",
+              "DisplayOrder": 33,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/Shower.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 232,
+              "Alias": "Washstand",
+              "Name": "Bồn rửa mặt",
+              "DisplayOrder": 35,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/Washstand.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            },
+            {
+              "Id": 231,
+              "Alias": "ToiletBowl",
+              "Name": "Bồn cầu",
+              "DisplayOrder": 37,
+              "Value": null,
+              "ImageUrl": "https://static.homedy.com/themes/default/images/icons/Project/Property/PNG/ToiletBowl.png",
+              "OptionData": [
+
+              ],
+              "HasBoolValue": true,
+              "HasMediaValue": false,
+              "HasNumberValue": false,
+              "HasTextValue": false,
+              "HasOptionValue": false,
+              "HasDateValue": false,
+              "ValueType": 0,
+              "GetValueType": 1,
+              "GetInputType": 7
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ActionId": 5,
+  "PackageId": 3,
+  "StartDate": "2022-12-11T10:40:59+07:00",
+  "CouponCode": null,
+  "AuthorInfo": "",
+  "AgencyId": "",
+  "UserChildCompanyId": ""
+}

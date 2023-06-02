@@ -1,0 +1,14 @@
+authority: api-v6.muaban.net
+method: POST
+path: /media/v1/medias
+scheme: https
+authorization: Bearer ${accessToken}
+content-type: application/json
+origin: https://muaban.net
+referer: https://muaban.net/
+sec-ch-ua: "Microsoft Edge";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-site

@@ -1,0 +1,21 @@
+{
+  "app_id": "desktop_site_flashad",
+  "lang": "vi",
+  "type": "",
+  "category": "",
+  "subCategory": "",
+  "skip_verify_phone": "1",
+  "company_ad": "1",
+  "condition_ad": "1",
+  "giveaway": false,
+  "unitnumber_display": false,
+  "streetnumber_display": false,
+  "region_v2": "",
+  "area_v2": "",
+  "ward": "",
+  "size": "",
+  "price": "",
+  "subject": "",
+  "body": "",
+  "isPostWin": false
+}

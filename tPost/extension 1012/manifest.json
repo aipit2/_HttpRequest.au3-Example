@@ -1,0 +1,20 @@
+{
+    "name": "tPost - Phần mềm hỗ trợ đăng tin",
+    "description": "Extension hỗ trợ cho phần mềm đăng tin tPost!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "48": "/icons/48.png",
+        "128": "/icons/128.png"
+    },
+    "background": {
+        "service_worker": "/js/background.js"
+    },
+    "host_permissions": [
+        "*://*.batdongsan.com.vn/"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": ["storage","activeTab", "scripting","tabs","cookies"]
+  }

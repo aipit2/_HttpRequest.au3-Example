@@ -1,0 +1,107 @@
+{
+  "post_data": {
+    "title": "",
+    "content": "",
+    "estate": {
+      "id": 4,
+      "parent_id": 43,
+      "title": "Bán nhà mặt tiền",
+      "title_make_page": "Bán nhà mặt tiền",
+      "template_type": "house",
+      "slug": "ban-nha-mat-tien",
+      "post_type": "ban",
+      "url": "ban-nha-mat-tien.html"
+    },
+    "post_type": "ban",
+    "project": 1009,
+    "province": {
+      "id": 2,
+      "name": null,
+      "code": null,
+      "total_posts": null
+    },
+    "district": {
+      "id": 26,
+      "name": null,
+      "short_name": null,
+      "slug": null,
+      "id_province": null,
+      "pre": null,
+      "ordering": null,
+      "postalcode": null,
+      "full_path": null,
+      "full_path_slug": null,
+      "total_posts": null,
+      "created_at": null,
+      "updated_at": null,
+      "published": null
+    },
+    "ward": {
+      "id": 342,
+      "name": null
+    },
+    "street": {
+      "id": 3861,
+      "name": null
+    },
+    "street_number": null,
+    "address": "",
+    "images": [
+
+    ],
+    "price": "null",
+    "dien_tich": "100",
+    "unit": {
+      "id": 17,
+      "title": null
+    },
+    "infomation": {
+      "acreage": "100",
+      "chieu_ngang": null,
+      "chieu_dai": null,
+      "bedroom": "1",
+      "toilet": "1",
+      "contact_name": "",
+      "contact_phone": ""
+    },
+    "advance_infomation": null,
+    "map_lat": 0,
+    "map_long": 0,
+    "status": "draft",
+    "gia_thoa_thuan": false,
+    "expands": null,
+    "vip": {
+      "package": {
+        "id": 7,
+        "title": "Tin thường",
+        "description": "",
+        "estate_id": 1,
+        "price": "1000",
+        "price_week": "6000",
+        "price_month": "20000",
+        "price_extend": "1000",
+        "price_up": 1000,
+        "price_label": "1000",
+        "price_text": "1.000",
+        "minday": 10,
+        "color": "#055699",
+        "css_class": "tinthuong_package",
+        "code": "normal",
+        "number_star": 0,
+        "ordering": 0,
+        "created_at": "22/03/2017"
+      },
+      "time": 10,
+      "time_type": "day",
+      "label": false
+    },
+    "current_step": "chon_hinh_anh",
+    "payment_method": "account",
+    "contact_name": "",
+    "contact_phone": ""
+  },
+  "track_data": {
+    "width": 809,
+    "height": 937
+  }
+}

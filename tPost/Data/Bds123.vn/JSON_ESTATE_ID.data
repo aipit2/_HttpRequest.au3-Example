@@ -1,0 +1,202 @@
+[
+  {
+    "id": 5,
+    "parent_id": 42,
+    "title": "Cho thuê căn hộ chung cư",
+    "title_make_page": "Cho thuê căn hộ chung cư",
+    "template_type": "apartment",
+    "slug": "cho-thue-can-ho-chung-cu",
+    "post_type": "thue",
+    "url": "cho-thue-can-ho-chung-cu.html"
+  },
+  {
+    "id": 79,
+    "parent_id": 45,
+    "title": "Cho thuê nhà nguyên căn",
+    "title_make_page": "Cho thuê nhà nguyên căn",
+    "template_type": "house",
+    "slug": "cho-thue-nha-nguyen-can",
+    "post_type": "thue",
+    "url": "cho-thue-nha-nguyen-can.html"
+  },
+  {
+    "id": 7,
+    "parent_id": 45,
+    "title": "Cho thuê nhà mặt tiền",
+    "title_make_page": "Cho thuê nhà mặt tiền",
+    "template_type": "house",
+    "slug": "cho-thue-nha-mat-tien",
+    "post_type": "thue",
+    "url": "cho-thue-nha-mat-tien.html"
+  },
+  {
+    "id": 38,
+    "parent_id": 42,
+    "title": "Cho thuê mặt bằng, cửa hàng, kiot",
+    "title_make_page": "Cho thuê mặt bằng",
+    "template_type": "ground",
+    "slug": "cho-thue-mat-bang",
+    "post_type": "thue",
+    "url": "cho-thue-mat-bang.html"
+  },
+  {
+    "id": 9,
+    "parent_id": 42,
+    "title": "Cho thuê văn phòng",
+    "title_make_page": "Cho thuê văn phòng",
+    "template_type": "office",
+    "slug": "cho-thue-van-phong",
+    "post_type": "thue",
+    "url": "cho-thue-van-phong.html"
+  },
+  {
+    "id": 8,
+    "parent_id": 42,
+    "title": "Cho thuê phòng trọ, nhà trọ",
+    "title_make_page": "Cho thuê phòng trọ",
+    "template_type": "room",
+    "slug": "cho-thue-phong-tro-nha-tro",
+    "post_type": "thue",
+    "url": "cho-thue-phong-tro-nha-tro.html"
+  },
+  {
+    "id": 40,
+    "parent_id": 42,
+    "title": "Tìm người ở ghép",
+    "title_make_page": "Tìm người ở ghép",
+    "template_type": "oghep",
+    "slug": "tim-nguoi-o-ghep",
+    "post_type": "thue",
+    "url": "tim-nguoi-o-ghep.html"
+  },
+  {
+    "id": 36,
+    "parent_id": 46,
+    "title": "Cho thuê đất",
+    "title_make_page": "Cho thuê đất",
+    "template_type": "land",
+    "slug": "cho-thue-dat-o-dat-tho-cu",
+    "post_type": "thue",
+    "url": "cho-thue-dat-o-dat-tho-cu.html"
+  },
+  {
+    "id": 34,
+    "parent_id": 42,
+    "title": "Cho thuê nhà hàng, khách sạn, nhà nghỉ",
+    "title_make_page": "Cho thuê khách sạn, nhà hàng",
+    "template_type": "hotel",
+    "slug": "cho-thue-nha-hang-khach-san",
+    "post_type": "thue",
+    "url": "cho-thue-nha-hang-khach-san.html"
+  },
+  {
+    "id": 11,
+    "parent_id": 42,
+    "title": "Cho thuê kho, nhà xưởng",
+    "title_make_page": "Cho thuê kho, nhà xưởng",
+    "template_type": "warehouse",
+    "slug": "cho-thue-kho-nha-xuong",
+    "post_type": "thue",
+    "url": "cho-thue-kho-nha-xuong.html"
+  },
+  {
+    "id": 1,
+    "parent_id": 41,
+    "title": "Bán căn hộ chung cư",
+    "title_make_page": "Bán căn hộ chung cư",
+    "template_type": "apartment",
+    "slug": "ban-can-ho-chung-cu",
+    "post_type": "ban",
+    "url": "ban-can-ho-chung-cu.html"
+  },
+  {
+    "id": 2,
+    "parent_id": 43,
+    "title": "Bán nhà, bán nhà riêng",
+    "title_make_page": "Bán nhà",
+    "template_type": "house",
+    "slug": "ban-nha",
+    "post_type": "ban",
+    "url": "ban-nha.html"
+  },
+  {
+    "id": 4,
+    "parent_id": 43,
+    "title": "Bán nhà mặt tiền",
+    "title_make_page": "Bán nhà mặt tiền",
+    "template_type": "house",
+    "slug": "ban-nha-mat-tien",
+    "post_type": "ban",
+    "url": "ban-nha-mat-tien.html"
+  },
+  {
+    "id": 3,
+    "parent_id": 43,
+    "title": "Bán biệt thự, nhà liền kề",
+    "title_make_page": "Bán biệt thự",
+    "template_type": "house",
+    "slug": "ban-biet-thu-lien-ke",
+    "post_type": "ban",
+    "url": "ban-biet-thu-lien-ke.html"
+  },
+  {
+    "id": 23,
+    "parent_id": 44,
+    "title": "Bán đất nền dự án",
+    "title_make_page": "Bán đất nền dự án",
+    "template_type": "land",
+    "slug": "ban-dat-nen-du-an",
+    "post_type": "ban",
+    "url": "ban-dat-nen-du-an.html"
+  },
+  {
+    "id": 24,
+    "parent_id": 44,
+    "title": "Bán đất",
+    "title_make_page": "Bán đất",
+    "template_type": "land",
+    "slug": "ban-dat-o-dat-tho-cu",
+    "post_type": "ban",
+    "url": "ban-dat-o-dat-tho-cu.html"
+  },
+  {
+    "id": 30,
+    "parent_id": 41,
+    "title": "Bán nhà trọ, dãy phòng trọ",
+    "title_make_page": "Bán nhà trọ, dãy phòng trọ",
+    "template_type": "sellroom",
+    "slug": "ban-phong-tro-nha-tro",
+    "post_type": "ban",
+    "url": "ban-phong-tro-nha-tro.html"
+  },
+  {
+    "id": 32,
+    "parent_id": 41,
+    "title": "Bán cửa hàng, kiot, quán",
+    "title_make_page": "Bán cửa hàng, kiot, quán",
+    "template_type": "kiot",
+    "slug": "ban-cua-hang-kiot-quan",
+    "post_type": "ban",
+    "url": "ban-cua-hang-kiot-quan.html"
+  },
+  {
+    "id": 31,
+    "parent_id": 41,
+    "title": "Bán nhà hàng, khách sạn, nhà nghỉ",
+    "title_make_page": "Bán khách sạn, nhà hàng",
+    "template_type": "hotel",
+    "slug": "ban-nha-hang-khach-san",
+    "post_type": "ban",
+    "url": "ban-nha-hang-khach-san.html"
+  },
+  {
+    "id": 33,
+    "parent_id": 41,
+    "title": "Bán kho, nhà xưởng",
+    "title_make_page": "Bán kho, nhà xưởng",
+    "template_type": "warehouse",
+    "slug": "ban-kho-nha-xuong",
+    "post_type": "ban",
+    "url": "ban-kho-nha-xuong.html"
+  }
+]
