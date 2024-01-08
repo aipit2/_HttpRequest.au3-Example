@@ -1,1 +1,1 @@
-Đây là các ví dụ về http mà các bạn có thể tham khảo
+Các ví dụ sử dụng UDF _HttpRequest.au3 của bác Huân Hoàng
